@@ -1,24 +1,15 @@
 Hi All,
 
-WWIIBlitzKrieg is a new Wargame inspired by the old strategic wargames
-that were made by SSI. The game perfectly follows the old blizkrieg
-battles carried out by Germany between 1939 and 1945.
+Battle Tanks is a game inspired by the classical game Battlezone made by 
+Atari in 1982 which could be played in casino's everywhere in the eighties.
+The game is a real classic. I have always been amazed how few information
+the human mind needs to find something stimulating and enjoyable which can 
+perfectly be seen in this game which uses only green lines on a black 
+background to make a thrilling war game with tanks.
 
-The first battle is the invasion of Poland which occurred in august 1939
-and marked the beginning of WWII. The invasion of Poland proceeded succesfull
-until the invasion of Warsaw. The Polish defence, who were waiting for the
-English and French armies to attack Germany from the west, were able to
-defend Warsaw for a month against the invading Axis forces and were at last
-defeated when the Russian troops entered in the East at September 27 1939
-with a final death toll of over 20,000 Polish civilians.
-
-This game can be played human-human directly, axis human-allies AI and also
-with the favourite style PBEM (play by email) in which the game save-files
-are send between 2 human players with email.
-
-The game has been made for a broad audience which is not familiar with tactical
-wargames yet. All classic rules are still valid, and explained in the manual,
-but the user interface is much more intuitive and easy to play for starters.
+If you have never seen and played the game then try it out for yourself.
+I have implemented the basic working with tanks but you can of course also
+implement the fast tanks and rockets later on.
 
 When you open the solution in Visual Studio 2008 then don't forget to move all the maps 
 (except My Project) to the bin/debug directory when you want to run the code.
